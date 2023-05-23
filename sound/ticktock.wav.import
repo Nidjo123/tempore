@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ticktock.wav-8bb79de3b442126eca49b6099618ab77.sample"
+
+[deps]
+
+source_file="res://sound/ticktock.wav"
+dest_files=[ "res://.import/ticktock.wav-8bb79de3b442126eca49b6099618ab77.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
